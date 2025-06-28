@@ -1,7 +1,7 @@
 # Hi, I'm Dike Wisdom 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/banner.jpg" alt="Dike Wisdom's Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/veedsify/veedsify/main/banner.jpg" alt="Dike Wisdom's Banner" width="100%" />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://veedsify.com"><img src="https://img.shields.io/badge/Website-Veedsify-blue" alt="Veedsify Website" /></a>
   <a href="https://youtube.com/@veedcode"><img src="https://img.shields.io/badge/YouTube-VeedCode-red" alt="YouTube Channel" /></a>
-  <a href="mailto:wisdomdikebusiness@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-yellow" alt="Email" /></a>
+  <a href="mailto:dikewisdom787@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-yellow" alt="Email" /></a>
 </p>
 
 ---
@@ -81,19 +81,17 @@ I'm a **solo full-stack developer** passionate about crafting scalable, impactfu
 - **Other Projects**: Optimized VPS servers with Nginx and PM2 for performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=veedsify&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=veedsify&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 📫 Let’s Connect
-
-- 💼 [LinkedIn](#) *(Update with your LinkedIn URL)*
-- 🧠 [X (Twitter)](https://x.com/yourusername) *(Update with your X handle)*
-- 📮 **Email**: [wisdomdikebusiness@gmail.com](mailto:wisdomdikebusiness@gmail.com)
+- 🧠 [X (Twitter)](https://x.com/veedsify_code) *(Update with your X handle)*
+- 📮 **Email**: [dikewisdom787@gmail.com](mailto:dikewisdom787@gmail.com)
 - 🌐 **Portfolio**: [veedsify.com](https://veedsify.com)
 
 <p align="center">
